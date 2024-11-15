@@ -1,0 +1,1666 @@
+{
+  "restaurants": [
+    {
+      "id": "376708",
+      "name": "Chinese Wok",
+      "cloudinaryImageId": "e0839ff574213e6f35b3899ebf1fc597",
+      "locality": "3rd Sector",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹250 for two",
+      "cuisines": ["Chinese", "Asian", "Tibetan", "Desserts"],
+      "avgRating": 4.2,
+      "parentId": "61955",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "6.7K+",
+      "sla": {
+        "deliveryTime": 45,
+        "lastMileTravel": 1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "40-45 mins",
+        "lastMileTravelString": "1.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-16 02:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Noodles.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Noodles.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹199"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "10581",
+      "name": "Pizza Hut",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/16/4e3a765a-3f1f-416a-9f9e-1748e8d9c488_10581.jpg",
+      "locality": "14th Main",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹300 for two",
+      "cuisines": ["Pizzas"],
+      "avgRating": 4.3,
+      "parentId": "721",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "20K+",
+      "sla": {
+        "deliveryTime": 32,
+        "lastMileTravel": 1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "1.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-16 03:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹189"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "3.7",
+          "ratingCount": "3.1K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "57283",
+      "name": "Burger King",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/55d0daa1-ad2e-4893-be06-4709c5c68d49_57283.JPG",
+      "locality": "HSR Layout",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹350 for two",
+      "cuisines": ["Burgers", "American"],
+      "avgRating": 4.2,
+      "parentId": "166",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "60K+",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 0.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "0.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-16 04:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Burger.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Burger.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "60% OFF",
+        "subHeader": "UPTO ₹120"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.1",
+          "ratingCount": "2.7K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "23805",
+      "name": "Domino's Pizza",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/24/a622c0c7-17b7-4fc6-8644-408f51739b16_23805.JPG",
+      "locality": "1st Sector",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Pizzas", "Italian", "Pastas", "Desserts"],
+      "avgRating": 4.5,
+      "parentId": "2456",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "17K+",
+      "sla": {
+        "deliveryTime": 30,
+        "lastMileTravel": 1.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "1.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-15 23:55:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Pizza.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹175 OFF",
+        "subHeader": "ABOVE ₹999",
+        "discountTag": "FLAT DEAL"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "17310",
+      "name": "KFC",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/5/6a3324c9-a5b9-4cb7-8640-66199921f6e4_17310.JPG",
+      "locality": "HSR Layout",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Burgers", "Fast Food", "Rolls & Wraps"],
+      "avgRating": 4.4,
+      "parentId": "547",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "39K+",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 0.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "0.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-16 00:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "40% OFF",
+        "subHeader": "UPTO ₹80"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.1",
+          "ratingCount": "1.0K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "349608",
+      "name": "Sharief Bhai Biryani",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/4/373bf7fa-4410-46bb-bce2-f5146b0e0fb3_349608.jpg",
+      "locality": "Bommanahalli",
+      "areaName": "Bommanahalli",
+      "costForTwo": "₹400 for two",
+      "cuisines": [
+        "Biryani",
+        "Kebabs",
+        "Mughlai",
+        "Arabian",
+        "South Indian",
+        "Rolls & Wraps",
+        "Street Food",
+        "Fast Food",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4.2,
+      "parentId": "469102",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "8.5K+",
+      "sla": {
+        "deliveryTime": 33,
+        "lastMileTravel": 3.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "3.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-15 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Biryani.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Biryani.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹199"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.0",
+          "ratingCount": "4.7K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "23682",
+      "name": "McDonald's",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/18/e83494ee-3c0b-4194-abd3-4619fa906aab_23682.jpg",
+      "locality": "HSR Layout",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+      "avgRating": 4.4,
+      "parentId": "630",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "73K+",
+      "sla": {
+        "deliveryTime": 22,
+        "lastMileTravel": 0.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "0.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-16 06:45:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Burger.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Burger.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹199"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.1",
+          "ratingCount": "12K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "323187",
+      "name": "Meghana Foods",
+      "cloudinaryImageId": "nw2xeql0jokm2rqnkzfs",
+      "locality": "Hosur Road",
+      "areaName": "Hosur Road",
+      "costForTwo": "₹500 for two",
+      "cuisines": ["Biryani", "Andhra", "South Indian", "Chinese", "Seafood"],
+      "avgRating": 4.6,
+      "parentId": "635",
+      "avgRatingString": "4.6",
+      "totalRatingsString": "48K+",
+      "sla": {
+        "deliveryTime": 34,
+        "lastMileTravel": 4.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "4.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-16 01:30:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "Rxawards/_CATEGORY-Biryani.png",
+            "description": "Delivery!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "aggregatedDiscountInfoV2": {},
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "Delivery!",
+                  "imageId": "Rxawards/_CATEGORY-Biryani.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.4",
+          "ratingCount": "7.6K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "974030",
+      "name": "The Thali Terminal (TTT)",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/6/35c42487-4863-407f-ba64-f5d1f9511961_974030 (1).jpg",
+      "locality": "HSR",
+      "areaName": "HSR",
+      "costForTwo": "₹300 for two",
+      "cuisines": ["Thalis", "North Indian", "Punjabi"],
+      "avgRating": 4.1,
+      "parentId": "567808",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "4",
+      "sla": {
+        "deliveryTime": 32,
+        "lastMileTravel": 1.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "1.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-16 01:30:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "60% OFF",
+        "subHeader": "UPTO ₹120"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "isNewlyOnboarded": true,
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "974035",
+      "name": "Udyaan - The Veg Thali",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/6/b863b96b-7588-40da-8978-fbbf4e4e3302_974035.jpg",
+      "locality": "HSR",
+      "areaName": "HSR",
+      "costForTwo": "₹300 for two",
+      "cuisines": ["Thalis", "North Indian", "Punjabi"],
+      "avgRating": 4.8,
+      "veg": true,
+      "parentId": "567806",
+      "avgRatingString": "4.8",
+      "totalRatingsString": "7",
+      "sla": {
+        "deliveryTime": 32,
+        "lastMileTravel": 1.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "1.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-16 01:30:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "60% OFF",
+        "subHeader": "UPTO ₹120"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "isNewlyOnboarded": true,
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "974014",
+      "name": "Snaap Bowl",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/29/5b2523ac-79e0-428b-a8cf-bab1a5eed57b_974014 (1).jpg",
+      "locality": "HSR",
+      "areaName": "HSR",
+      "costForTwo": "₹300 for two",
+      "cuisines": ["Tandoor", "North Indian", "Mughlai"],
+      "avgRating": 4.8,
+      "parentId": "553733",
+      "avgRatingString": "4.8",
+      "totalRatingsString": "48",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 1.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "1.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-16 01:30:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "60% OFF",
+        "subHeader": "UPTO ₹120",
+        "discountTag": "POCKET HERO",
+        "discountCalloutInfo": {
+          "message": "Free Delivery",
+          "logoCtx": {
+            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+          }
+        }
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "isNewlyOnboarded": true,
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "290156",
+      "name": "Coal Spark Restaurant",
+      "cloudinaryImageId": "xklvn9yz4hzfuikflbmw",
+      "locality": "HSR Layout",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹450 for two",
+      "cuisines": ["Biryani", "Chinese", "Arabian"],
+      "avgRating": 4.3,
+      "parentId": "10888",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "8.3K+",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 1.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "1.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-15 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "10% OFF",
+        "subHeader": "UPTO ₹40"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.5",
+          "ratingCount": "5.0K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "895461",
+      "name": "Wendy's Burgers",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/29/5f7140b0-70b7-45a0-8d34-4bf6b8983cd3_895461.jpg",
+      "locality": "27th Main Road",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹750 for two",
+      "cuisines": ["Burgers", "American", "Fast Food", "Snacks"],
+      "avgRating": 4.3,
+      "parentId": "972",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "399",
+      "sla": {
+        "deliveryTime": 23,
+        "lastMileTravel": 1.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "1.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-15 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹89"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "isNewlyOnboarded": true,
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "376310",
+      "name": "Baskin Robbins - Ice Cream Desserts",
+      "cloudinaryImageId": "85ccae4e3576f9330af102c46ca85395",
+      "locality": "A Block",
+      "areaName": "Aecs Layout",
+      "costForTwo": "₹250 for two",
+      "cuisines": ["Desserts", "Ice Cream"],
+      "avgRating": 4.4,
+      "veg": true,
+      "parentId": "5588",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "245",
+      "sla": {
+        "deliveryTime": 33,
+        "lastMileTravel": 4.1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "4.1 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-15 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "50% OFF",
+        "subHeader": "UPTO ₹100"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "66603",
+      "name": "Szechuan Dragon",
+      "cloudinaryImageId": "no5jhmeu39vhuvky3tgw",
+      "locality": "Banashankari",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Chinese", "Pan-Asian", "Seafood"],
+      "avgRating": 4.3,
+      "parentId": "7539",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "28K+",
+      "sla": {
+        "deliveryTime": 21,
+        "lastMileTravel": 1.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "1.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-16 00:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "40% OFF",
+        "subHeader": "UPTO ₹80"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "3.6",
+          "ratingCount": "150"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "5770",
+      "name": "Mughal Treat",
+      "cloudinaryImageId": "axdo5w7n2dllewfef8rq",
+      "locality": "HSR Layout",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹400 for two",
+      "cuisines": [
+        "Biryani",
+        "Chinese",
+        "Arabian",
+        "Healthy Food",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4.4,
+      "parentId": "3346",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "49K+",
+      "sla": {
+        "deliveryTime": 21,
+        "lastMileTravel": 1.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "1.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-15 23:59:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "20% OFF",
+        "subHeader": "UPTO ₹50"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.1",
+          "ratingCount": "11K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "527860",
+      "name": "AL Khaja Resturent",
+      "cloudinaryImageId": "t4kx6yqfmvc3ivnbnybp",
+      "locality": "Mangammanapalya Main Road",
+      "areaName": "Bommanahalli",
+      "costForTwo": "₹500 for two",
+      "cuisines": [
+        "Chinese",
+        "North Indian",
+        "Arabian",
+        "Ice Cream",
+        "Beverages"
+      ],
+      "avgRating": 4.3,
+      "parentId": "318464",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "2.9K+",
+      "sla": {
+        "deliveryTime": 24,
+        "lastMileTravel": 2.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "2.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-15 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "aggregatedDiscountInfoV2": {},
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "365010",
+      "name": "Hotel Salam",
+      "cloudinaryImageId": "hgdmw8uwgewhiewwovjh",
+      "locality": "Bommanahalli",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹250 for two",
+      "cuisines": ["Biryani", "Tandoor", "Arabian", "Indian", "Beverages"],
+      "avgRating": 4,
+      "parentId": "101873",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "5.5K+",
+      "sla": {
+        "deliveryTime": 23,
+        "lastMileTravel": 1.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "1.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-16 00:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "aggregatedDiscountInfoV2": {},
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "3.8",
+          "ratingCount": "2.9K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "903610",
+      "name": "The Spicy Plate",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/7/be43784c-dbce-4ebf-9555-85c7a8616674_903610.jpg",
+      "locality": "27TH MAIN ROAD",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["North Indian", "Chinese", "Asian"],
+      "avgRating": 4.5,
+      "parentId": "527136",
+      "avgRatingString": "4.5",
+      "totalRatingsString": "242",
+      "sla": {
+        "deliveryTime": 25,
+        "lastMileTravel": 1.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "1.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-15 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "20% OFF",
+        "subHeader": "UPTO ₹50"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "isNewlyOnboarded": true,
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "664068",
+      "name": "Kung Pao Town",
+      "cloudinaryImageId": "cb826c872d7ed0d20bf143b88cc980f9",
+      "locality": "Sector-6",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹300 for two",
+      "cuisines": ["Indian", "Chinese"],
+      "avgRating": 4,
+      "parentId": "398223",
+      "avgRatingString": "4.0",
+      "totalRatingsString": "666",
+      "sla": {
+        "deliveryTime": 24,
+        "lastMileTravel": 1.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "1.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-16 01:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹72"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "671119",
+      "name": "Box Stories",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/7/7dde185c-6695-4ceb-a73a-dea301af8e8c_671119.jpg",
+      "locality": "Sector-5",
+      "areaName": "HSR Layout",
+      "costForTwo": "₹200 for two",
+      "cuisines": ["Bihari", "North Indian", "Beverages"],
+      "avgRating": 4.3,
+      "parentId": "402153",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "933",
+      "sla": {
+        "deliveryTime": 33,
+        "lastMileTravel": 2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "30-35 mins",
+        "lastMileTravelString": "2.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-16 03:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+            "description": "OnlyOnSwiggy"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "OnlyOnSwiggy",
+                  "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹125 OFF",
+        "subHeader": "ABOVE ₹249",
+        "discountTag": "FLAT DEAL",
+        "discountCalloutInfo": {
+          "message": "Free Delivery",
+          "logoCtx": {
+            "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+          }
+        }
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "231848",
+      "name": "Oyster Bar & Kitchen",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/17/b6ca2a93-5ecb-463e-87bf-4416f4fc9f4b_231848.jpg",
+      "locality": "HSR Layout",
+      "areaName": "HSR",
+      "costForTwo": "₹300 for two",
+      "cuisines": ["Continental", "Pan-Asian", "North Indian", "Snacks"],
+      "avgRating": 4.1,
+      "parentId": "314052",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "419",
+      "sla": {
+        "deliveryTime": 29,
+        "lastMileTravel": 0.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "0.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-15 23:59:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "25% OFF",
+        "subHeader": "UPTO ₹125"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.6",
+          "ratingCount": "6.8K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    {
+      "id": "326203",
+      "name": "Temperature",
+      "cloudinaryImageId": "b12888205ff2c17ced147d9f557ba755",
+      "locality": "1st Sector",
+      "areaName": "Hsr Layout",
+      "costForTwo": "₹150 for two",
+      "cuisines": ["American", "Beverages", "Juices", "Snacks"],
+      "avgRating": 4.4,
+      "parentId": "203067",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "2.2K+",
+      "sla": {
+        "deliveryTime": 24,
+        "lastMileTravel": 1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "1.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-11-22 00:00:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹99"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    }
+  ]
+}
