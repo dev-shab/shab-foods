@@ -18,7 +18,8 @@
   "homepage": "https://github.com/dev-shab/shab-foods#readme",
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
   },
   "devDependencies": {
     "parcel": "^2.13.0",
