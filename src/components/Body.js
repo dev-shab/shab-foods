@@ -50,21 +50,31 @@ const Body = () => {
 
   return (
     <div className="body">
-      <div className="filter">
-        <div className="search">
+      <div className="flex">
+        <div className="m-4 p-4">
           <input
             type="text"
-            className="search-box"
+            className="border border-solid border-black"
             value={searchText}
             onChange={(e) => setSearchText(e.target.value)}
           />
-          <button onClick={handleSearchClick}>Search</button>
+          <button
+            className="px-4 py-2 bg-green-100 m-4 rounded-lg"
+            onClick={handleSearchClick}
+          >
+            Search
+          </button>
         </div>
-        <button className="filter-button" onClick={handleButtonClick}>
-          Top Rated Restaurants
-        </button>
+        <div className="m-4 p-4 flex items-center">
+          <button
+            className="px-4 py-2 bg-gray-100 rounded-lg"
+            onClick={handleButtonClick}
+          >
+            Top Rated Restaurants
+          </button>
+        </div>
       </div>
-      <div className="restaurant-container">
+      <div className="flex flex-wrap">
         {filteredRestaurants.map((restaurant) => (
           <Link to={`/restaurants/${restaurant.id}`} key={restaurant.id}>
             <RestaurantCard restaurantData={restaurant} />
