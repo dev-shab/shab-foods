@@ -1,11 +1,13 @@
-import React, { useState } from "react";
+import React, { useContext, useState } from "react";
 import { Link } from "react-router-dom";
-import logo from "../utils/shab_foods.png";
 import { useOnlineStatus } from "../utils/useOnlineStatus";
+import UserContext from "../utils/UserContext";
+import logo from "../utils/shab_foods.png";
 
 const Header = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const onlineStatus = useOnlineStatus();
+  const data = useContext(UserContext);
 
   return (
     <div className="flex justify-between shadow-lg mb-2 bg-pink-100">
@@ -28,9 +30,10 @@ const Header = () => {
             <Link to="/grocery">Grocery</Link>
           </li>
           <li className="px-4">Cart</li>
-          <button className="login" onClick={() => setIsLoggedIn(!isLoggedIn)}>
+          <button onClick={() => setIsLoggedIn(!isLoggedIn)}>
             {isLoggedIn ? "logout" : "login"}
           </button>
+          <li className="px-4 font-bold">{data.loggedInUser}</li>
         </ul>
       </div>
     </div>
