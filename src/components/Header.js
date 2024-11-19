@@ -1,5 +1,6 @@
 import React, { useContext, useState } from "react";
 import { Link } from "react-router-dom";
+import { useSelector } from "react-redux";
 import { useOnlineStatus } from "../utils/useOnlineStatus";
 import UserContext from "../utils/UserContext";
 import logo from "../utils/shab_foods.png";
@@ -8,6 +9,7 @@ const Header = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const onlineStatus = useOnlineStatus();
   const data = useContext(UserContext);
+  const cartItems = useSelector((store) => store.cart.items);
 
   return (
     <div className="flex justify-between shadow-lg mb-2 bg-pink-100">
@@ -29,11 +31,13 @@ const Header = () => {
           <li className="px-4">
             <Link to="/grocery">Grocery</Link>
           </li>
-          <li className="px-4">Cart</li>
+          <li className="px-4 font-bold text-xl">
+            <Link to="/cart">Cart ({cartItems.length} items)</Link>
+          </li>
           <button onClick={() => setIsLoggedIn(!isLoggedIn)}>
             {isLoggedIn ? "logout" : "login"}
           </button>
-          <li className="px-4 font-bold">{data.loggedInUser}</li>
+          <li className="px-4">{data.loggedInUser}</li>
         </ul>
       </div>
     </div>
